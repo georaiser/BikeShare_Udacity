@@ -276,8 +276,8 @@ def console():
     ax.set_title(' Bike Route')
     return df,df5,df6
 
-df,df5,df6=console()
-runAgain()
+#df,df5,df6=console()
+#runAgain()
 
 #%%
 
